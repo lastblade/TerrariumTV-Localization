@@ -33,7 +33,7 @@
     <string name="downloading_subtitle_toast">Baixando Legendas… Por favor aguarde…</string>
     <string name="ready_to_play_toast">O video começará em um instante…</string>
     <string name="searching_media">Buscando…</string>
-    <string name="subtitle_language">Idioma das Legendas : </string>
+    <string name="subtitle_language">Idioma da Legenda : </string>
     <string name="subtitle_download_failed">Não foi possível baixar a legenda, por favor escolha outra...</string>
     <string name="subtitle_extract_failed">Não foi possível extrair a legenda, por favor escolha outra...</string>
     <string name="permission_grant_toast">Por favor selecione \"Permitir\" para liberar a permissão e tente novamente.</string>
@@ -50,7 +50,7 @@
     <string name="mxplayer_unable_to_start_message">Não foi possível iniciar o MXPlayer. Por favor re-instale e tente novamente.</string>
     <string name="close_ad_to_play">Feche o anúncio para iniciar a reprodução.</string>
 
-    <string name="trending">Tendencias</string>
+    <string name="trending">Tendências</string>
     <string name="most_popular">Mais populares</string>
     <string name="most_played">Mais reproduzidos</string>
     <string name="most_watched">Mais assistidos</string>
@@ -117,7 +117,7 @@
     <string name="pref_choose_default_nav">Escolher guia padrão…</string>
     <string name="pref_choose_default_category_tv_shows">Escolher gênero padrão do programas de TV…</string>
     <string name="pref_choose_default_category_movies">Escolher gênero padrão dos filmes…</string>
-    <string name="pref_enabled_tv_shows_providers">Escolher Provedores de Programs de TV…</string>
+    <string name="pref_enabled_tv_shows_providers">Escolher Provedores de Programas de TV…</string>
     <string name="pref_enabled_movies_providers">Escolher Provedores de Filmes…</string>
     <string name="pref_enabled_resolvers">Escolher resolvedores ativos…</string>
     <string name="pref_modern_ui">Usar Interface moderna</string>
